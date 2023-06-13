@@ -12,34 +12,34 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = WinTOMac
-build_property.ProjectDir = E:\Visual Studio 2022\WinTOMac\WinTOMac\
+build_property.ProjectDir = /Users/hsds/Projects/WinTOMac/WinTOMac/
 
-[E:/Visual Studio 2022/WinTOMac/WinTOMac/App.xaml]
+[/Users/hsds/Projects/WinTOMac/WinTOMac/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WinTOMac.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[E:/Visual Studio 2022/WinTOMac/WinTOMac/AppShell.xaml]
+[/Users/hsds/Projects/WinTOMac/WinTOMac/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WinTOMac.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[E:/Visual Studio 2022/WinTOMac/WinTOMac/MainPage.xaml]
+[/Users/hsds/Projects/WinTOMac/WinTOMac/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WinTOMac.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[E:/Visual Studio 2022/WinTOMac/WinTOMac/Resources/Styles/Colors.xaml]
+[/Users/hsds/Projects/WinTOMac/WinTOMac/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WinTOMac.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[E:/Visual Studio 2022/WinTOMac/WinTOMac/Resources/Styles/Styles.xaml]
+[/Users/hsds/Projects/WinTOMac/WinTOMac/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WinTOMac.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
